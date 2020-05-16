@@ -241,3 +241,6 @@ quarkus.swagger-ui.always-include=true
 curl http://localhost:8080/greeting ; echo
 ```
 
+Finalmente, un recurso interesante para probar Quarkus, incluso sobre Kubernetes, es este proyecto en [katacoda.com](https://www.katacoda.com/openshift/courses/middleware/middleware-quarkus). Lo abren, eligen el escenario, siguen las instrucciones, click en cada comando que vaya apareciendo y todo se ejecuta en automático.
+
+
